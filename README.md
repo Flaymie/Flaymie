@@ -28,7 +28,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Flaymie&style=flat-square&label=Profile+Views" alt="views"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Flaymie.profile" alt="visitors"/>
-  <img src="https://profile-counter.glitch.me/Flaymie/count.svg" alt="profile views"/>
 </p>
 
 ---

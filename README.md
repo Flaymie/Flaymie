@@ -28,8 +28,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Flaymie&style=flat-square&label=Profile+Views" alt="views"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Flaymie.profile" alt="visitors"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFlaymie%2FFlaymie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false" alt="hits"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fflaymie.profile%2Fvisits&query=value&label=Profile%20Views%20(backup)&color=brightgreen" alt="profile views backup"/>
 </p>
 
 ---

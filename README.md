@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Flaymie&style=flat-square&label=Profile+Views" alt="views"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Flaymie.profile" alt="visitors"/>
+  <img src="https://profile-counter.glitch.me/Flaymie/count.svg" alt="profile views"/>
 </p>
 
 ---
@@ -50,6 +51,10 @@
 - 🔥 BirgeKomek — Full MERN real-time peer‑to‑peer learning platform for school students  
   Roles/RBAC, Telegram auth & notifications, anti‑cheat & AI-moderation, secure file uploads, Redis + Socket.IO presence, private chats, ratings & reviews.  
   Repo: https://github.com/Flaymie/BirgeKomek
+
+- 🧠 FCore — core framework for Minecraft plugins (Spigot/Paper)  
+  DI container, annotation‑based command system, event model, GUI builder, permissions DSL, security layer, and plugin loader. Provides an industrial‑grade foundation for complex servers and plugin ecosystems.  
+  Repo: https://github.com/Flaymie/FCore
 
 - ⚙️ randize — Python randomizer library for tests/simulations  
   Random numbers, strings, UUID, dates/times, emails, user profiles, network data, colors, coordinates and more. Easy API, ready for quick mocks.  

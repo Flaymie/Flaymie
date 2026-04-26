@@ -92,25 +92,6 @@
 
 ---
 
-## Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flaymie&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Flaymie/Flaymie/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-## Recent Activity
-<!-- Auto-updating via GitHub Action (see .github/workflows/activity.yml) -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## Need a backend that moves the needle?
 
 - MVPs and production APIs that scale

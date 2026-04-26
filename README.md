@@ -44,15 +44,15 @@
 
 ## Selected Work (Pinned)
 
-- 🔥 BirgeKomek — Full MERN real-time peer‑to‑peer learning platform for school students  
+- 🔥 BirgeKomek - Full MERN real-time peer‑to‑peer learning platform for school students  
   Roles/RBAC, Telegram auth & notifications, anti‑cheat & AI-moderation, secure file uploads, Redis + Socket.IO presence, private chats, ratings & reviews.  
   Repo: https://github.com/Flaymie/birge_komek
 
-- 🧠 FCore — core framework for Minecraft plugins (Spigot/Paper)  
-  DI container, annotation‑based command system, event model, GUI builder, permissions DSL, security layer, and plugin loader. Provides an industrial‑grade foundation for complex servers and plugin ecosystems.  
-  Repo: https://github.com/Flaymie/FCore
+- 📊 Polymarket Clone - Prediction market platform integrated as a Telegram Web App  
+  Real-time odds & probability updates via WebSockets, Automated Market Maker (AMM) logic, secure Telegram InitData verification, and comprehensive admin/trader dashboards. 
+  Repo: https://github.com/Flaymie/tg-polymarket
 
-- ⚙️ randize — Python randomizer library for tests/simulations  
+- ⚙️ randize - Python randomizer library for tests/simulations  
   Random numbers, strings, UUID, dates/times, emails, user profiles, network data, colors, coordinates and more. Easy API, ready for quick mocks.  
   Repo: https://github.com/Flaymie/randize
 

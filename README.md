@@ -99,7 +99,7 @@
 - Robust integrations and automations that save time and money
 
 <p>
-  <a href="https://t.me/flaymie" target="_blank">
+  <a href="https://t.me/flyermi" target="_blank">
     <img src="https://img.shields.io/badge/DM%20me%20on%20Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:funquenop@gmail.com">

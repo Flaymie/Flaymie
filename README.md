@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/flaymie" target="_blank">
+  <a href="https://t.me/flyermi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:funquenop@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://kwork.ru/user/blazexdev" target="_blank">
+  <a href="https://kwork.ru/user/varity" target="_blank">
     <img src="https://img.shields.io/badge/Kwork-18181B?style=for-the-badge&logo=handshake&logoColor=white" alt="Kwork"/>
   </a>
   <a href="https://www.fiverr.com/flaymier" target="_blank">

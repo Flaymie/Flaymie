@@ -115,6 +115,9 @@
 
 ---
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
   <sub>Let’s build something great. Backend that serves the business — not the other way around.</sub>
 </p>
